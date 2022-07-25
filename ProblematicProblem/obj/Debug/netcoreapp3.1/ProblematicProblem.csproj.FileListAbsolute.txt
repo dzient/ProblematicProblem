@@ -1,0 +1,14 @@
+C:\Users\kc2us\Documents\GitHub\ProblematicProblem\ProblematicProblem\obj\Debug\netcoreapp3.1\ProblematicProblem.csproj.AssemblyReference.cache
+C:\Users\kc2us\Documents\GitHub\ProblematicProblem\ProblematicProblem\obj\Debug\netcoreapp3.1\ProblematicProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kc2us\Documents\GitHub\ProblematicProblem\ProblematicProblem\obj\Debug\netcoreapp3.1\ProblematicProblem.AssemblyInfoInputs.cache
+C:\Users\kc2us\Documents\GitHub\ProblematicProblem\ProblematicProblem\obj\Debug\netcoreapp3.1\ProblematicProblem.AssemblyInfo.cs
+C:\Users\kc2us\Documents\GitHub\ProblematicProblem\ProblematicProblem\obj\Debug\netcoreapp3.1\ProblematicProblem.csproj.CoreCompileInputs.cache
+C:\Users\kc2us\Documents\GitHub\ProblematicProblem\ProblematicProblem\bin\Debug\netcoreapp3.1\ProblematicProblem.exe
+C:\Users\kc2us\Documents\GitHub\ProblematicProblem\ProblematicProblem\bin\Debug\netcoreapp3.1\ProblematicProblem.deps.json
+C:\Users\kc2us\Documents\GitHub\ProblematicProblem\ProblematicProblem\bin\Debug\netcoreapp3.1\ProblematicProblem.runtimeconfig.json
+C:\Users\kc2us\Documents\GitHub\ProblematicProblem\ProblematicProblem\bin\Debug\netcoreapp3.1\ProblematicProblem.runtimeconfig.dev.json
+C:\Users\kc2us\Documents\GitHub\ProblematicProblem\ProblematicProblem\bin\Debug\netcoreapp3.1\ProblematicProblem.dll
+C:\Users\kc2us\Documents\GitHub\ProblematicProblem\ProblematicProblem\bin\Debug\netcoreapp3.1\ProblematicProblem.pdb
+C:\Users\kc2us\Documents\GitHub\ProblematicProblem\ProblematicProblem\obj\Debug\netcoreapp3.1\ProblematicProblem.dll
+C:\Users\kc2us\Documents\GitHub\ProblematicProblem\ProblematicProblem\obj\Debug\netcoreapp3.1\ProblematicProblem.pdb
+C:\Users\kc2us\Documents\GitHub\ProblematicProblem\ProblematicProblem\obj\Debug\netcoreapp3.1\ProblematicProblem.genruntimeconfig.cache
